@@ -2,7 +2,7 @@
 module.exports = {
   title: 'My Notebook',
   tagline: 'Notes, UNI, Learning material',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ms-my-notebook.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -1,3 +1,4 @@
 # My notebook
 
-Docasaurus, React, Css
+Using docasaurus for creating a personal markdown note saving app with some custom components (flipcards, quizzes, etc..)
+Tech: Docasaurus, React
