@@ -48,7 +48,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/MartinStrekelj/my_notebook/tree/main/docs',
+            'https://github.com/MartinStrekelj/my_notebook/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
