@@ -222,3 +222,71 @@ Razreševanje konfliktov med člani projektne ekipe:
 - V poročilih naj bodo primerjave glede na plan
 - Stremeti k jedrnatosti in ne prikrivati dejstev/problemov
 - Zaželen je tudi 'pogled v naprej'
+
+### Planiranje tveganja
+
+Določimo osnovne koncepte planiranja tveganja
+
+![tveganja](/img/PUI/3/tveganja.jpg)
+
+Identificiramo na podlagi izkušenj in baze znanja.
+
+Vključimo sponzorja, projektno ekipo, ostale deležnike in po potrebi svetovalce.
+
+Sodelovanje pri identifikaciji tveganj pomeni:
+
+- Višja stopnja poisvetovanja z identificiranimi tveganji
+- 'Moralna' obveza posameznikov, da bodo dobro razmislil o tveganjih že v fazi inicialnega planiranja, saj bo prepozno identificirano tveganje težava tudi ali predvsem za njih
+
+"Podobni" projekti imajo "podobna" tveganja.
+
+## Planiranje oskrbovanja
+
+- Analiza 'Naredi-ali-kupi', pri tem pomaga projektna pisarna
+- Določanje obsega za vsako zunanje izvajanje:
+  - Kdaj začeti postopke povabil k oddaji ponudb?
+  - Okviren seznam potencialnih zunanjih izvajalcev
+Določanje tipov pogodb:
+- FP fixed price,
+- T&M (time&material, poraba časa in materiala)
+
+## Tipi tveganj
+
+:::important
+
+- **Splošna tveganja**
+  - Bolezen (zlasti ključnih članov)
+  - Neustrezno sodelovanje na strani naročnika
+  - Preobremenjenost članov projektne ekipe
+  - Slaba podpora projektu s strani vodstvenih kadrov naročnika
+  - Kratki časovni roki
+  - Neustrezno sodelovanje (ali celo nasprotovanje) poslovnih uporabnikov na strani naročnika
+  - Prekinitev financiranja projekta
+- **Tveganja področja zakonodaje**
+  - Zakonodaja, ki je podlaga za projekt, bo sprejeta šele med potekom projekta
+  - Spremembe zakonodaje na področju, ki ga pokriva projekt
+- **Tehnološko-arhitekturna tveganja**
+  - Uporaba novih tehnologij
+    - Težave pri integraciji
+    - Slabše performance od pričakovanih
+    - Daljši čas razvoja
+    - Težave pri namestitvah
+    - Razvijalci ne bodo osvojili znanja na področju novih tehnologij dovolj hitro
+    - Slaba odzivnost svetovalcev dobavitelja tehnologije
+  - Tveganja na področju varnosti
+  - Potreba po integraciji večjega števila različnih tehnologij
+  - Potreba po migraciji podatkov iz starega IS v podatkovno bazo novega IS
+- **Metodološka tveganja**
+  - Motodologija za Project Life Cycle ni opredeljena ali pa jo člani projektne ekipe zelo slabo poznajo
+  - Metodologija vodenja projektov ali Project life Cycle se bosta na projektu prvič 'uporabila'
+  - Pričakovati je odpor pri uporabi metodologije, saj člani projektne epike raje delujejo spontano
+- **Tveganja vezana na končni izdelek**
+  - Uporabniki izdelka ne bodo dobro sprejeli
+  - Člani projektne ekipe ne poznajo dobro platforme (SAP, Maximo, itd..) zato bo njihovo delo manj učinkovito.
+- **Organizacijo tveganja**
+  - Možnost reorganizacije v podjetju med izvajanjem projekta
+  - Uvedba aplikacije bo zahtevala spremembo po večji spremembi poslovnih procesov
+- **Tveganja področja koordinacije z ostalimi projekti**
+  - Večja stopnja odvisnosti
+
+:::
